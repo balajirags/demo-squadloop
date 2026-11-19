@@ -34,7 +34,7 @@ git clone git@github.com:balajirags/squadloop.git
 
 ```bash
 cd squadloop
-npm install -g squadloop
+npm run build
 npm link
 ```
 
